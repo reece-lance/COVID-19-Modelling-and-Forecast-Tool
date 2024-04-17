@@ -1,0 +1,7 @@
+{
+    "modelPackage":"csee.ce291_team02.LmaoNinjaApiClient.generatedClient.model",
+    "apiPackage":"csee.ce291_team02.LmaoNinjaApiClient.generatedClient.apiPackage",
+    "invokerPackage":"csee.ce291_team02.LmaoNinjaApiClient.generatedClient.invokerPackage",
+    "dateLibrary" : "java8-localdatetime",
+    "fullJavaUtil": "true"
+}

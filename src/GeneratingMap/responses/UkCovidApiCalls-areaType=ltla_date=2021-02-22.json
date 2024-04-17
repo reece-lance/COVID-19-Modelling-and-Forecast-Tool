@@ -1,0 +1,4953 @@
+{
+    "data": [
+        {
+            "cases": {
+                "cumulative": 6496,
+                "daily": 6
+            },
+            "code": "S12000033",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Aberdeen City"
+        },
+        {
+            "cases": {
+                "cumulative": 5267,
+                "daily": 19
+            },
+            "code": "S12000034",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Aberdeenshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 2
+            },
+            "code": "E07000223",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 76,
+                "daily": 0
+            },
+            "name": "Adur"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000026",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 291,
+                "daily": 2
+            },
+            "name": "Allerdale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000032",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 360,
+                "daily": 1
+            },
+            "name": "Amber Valley"
+        },
+        {
+            "cases": {
+                "cumulative": 2837,
+                "daily": 9
+            },
+            "code": "S12000041",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Angus"
+        },
+        {
+            "cases": {
+                "cumulative": 7691,
+                "daily": 14
+            },
+            "code": "N09000001",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Antrim and Newtownabbey"
+        },
+        {
+            "cases": {
+                "cumulative": 5270,
+                "daily": 11
+            },
+            "code": "N09000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Ards and North Down"
+        },
+        {
+            "cases": {
+                "cumulative": 1381,
+                "daily": 0
+            },
+            "code": "S12000035",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Argyll and Bute"
+        },
+        {
+            "cases": {
+                "cumulative": 14489,
+                "daily": 26
+            },
+            "code": "N09000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Armagh City, Banbridge and Craigavon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E07000224",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 338,
+                "daily": 2
+            },
+            "name": "Arun"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E07000170",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 360,
+                "daily": 1
+            },
+            "name": "Ashfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000105",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 418,
+                "daily": 0
+            },
+            "name": "Ashford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E07000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 377,
+                "daily": 2
+            },
+            "name": "Aylesbury Vale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000200",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 244,
+                "daily": 0
+            },
+            "name": "Babergh"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 33
+            },
+            "code": "E09000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 567,
+                "daily": 1
+            },
+            "name": "Barking and Dagenham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 39
+            },
+            "code": "E09000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 853,
+                "daily": 0
+            },
+            "name": "Barnet"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 70
+            },
+            "code": "E08000016",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 937,
+                "daily": 1
+            },
+            "name": "Barnsley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000027",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 203,
+                "daily": 1
+            },
+            "name": "Barrow-in-Furness"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000066",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 588,
+                "daily": 2
+            },
+            "name": "Basildon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E07000084",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 356,
+                "daily": 1
+            },
+            "name": "Basingstoke and Deane"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000171",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 291,
+                "daily": 0
+            },
+            "name": "Bassetlaw"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E06000022",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 257,
+                "daily": 1
+            },
+            "name": "Bath and North East Somerset"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E06000055",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 575,
+                "daily": 0
+            },
+            "name": "Bedford"
+        },
+        {
+            "cases": {
+                "cumulative": 20844,
+                "daily": 42
+            },
+            "code": "N09000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Belfast"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E09000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 683,
+                "daily": 3
+            },
+            "name": "Bexley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 258
+            },
+            "code": "E08000025",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 3058,
+                "daily": 11
+            },
+            "name": "Birmingham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E07000129",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 226,
+                "daily": 1
+            },
+            "name": "Blaby"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 29
+            },
+            "code": "E06000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 468,
+                "daily": 3
+            },
+            "name": "Blackburn with Darwen"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E06000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 542,
+                "daily": 2
+            },
+            "name": "Blackpool"
+        },
+        {
+            "cases": {
+                "cumulative": 5962,
+                "daily": 3
+            },
+            "code": "W06000019",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Blaenau Gwent"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 29
+            },
+            "code": "E07000033",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 234,
+                "daily": 0
+            },
+            "name": "Bolsover"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 125
+            },
+            "code": "E08000001",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 851,
+                "daily": 1
+            },
+            "name": "Bolton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000136",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 217,
+                "daily": 0
+            },
+            "name": "Boston"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 52
+            },
+            "code": "E06000058",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 941,
+                "daily": 5
+            },
+            "name": "Bournemouth, Christchurch and Poole"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E06000036",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 187,
+                "daily": 0
+            },
+            "name": "Bracknell Forest"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 193
+            },
+            "code": "E08000032",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1265,
+                "daily": 7
+            },
+            "name": "Bradford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000067",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 477,
+                "daily": 0
+            },
+            "name": "Braintree"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 22
+            },
+            "code": "E07000143",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 350,
+                "daily": 3
+            },
+            "name": "Breckland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 31
+            },
+            "code": "E09000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 795,
+                "daily": 1
+            },
+            "name": "Brent"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000068",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 257,
+                "daily": 1
+            },
+            "name": "Brentwood"
+        },
+        {
+            "cases": {
+                "cumulative": 12346,
+                "daily": 5
+            },
+            "code": "W06000013",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Bridgend"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E06000043",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 423,
+                "daily": 1
+            },
+            "name": "Brighton and Hove"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 96
+            },
+            "code": "E06000023",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 558,
+                "daily": 1
+            },
+            "name": "Bristol, City of"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000144",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 367,
+                "daily": 2
+            },
+            "name": "Broadland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E09000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 738,
+                "daily": 2
+            },
+            "name": "Bromley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000234",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 286,
+                "daily": 0
+            },
+            "name": "Bromsgrove"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 3
+            },
+            "code": "E07000095",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 220,
+                "daily": 0
+            },
+            "name": "Broxbourne"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E07000172",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 313,
+                "daily": 1
+            },
+            "name": "Broxtowe"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000117",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 330,
+                "daily": 3
+            },
+            "name": "Burnley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 79
+            },
+            "code": "E08000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 610,
+                "daily": 1
+            },
+            "name": "Bury"
+        },
+        {
+            "cases": {
+                "cumulative": 12881,
+                "daily": 26
+            },
+            "code": "W06000018",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Caerphilly"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 49
+            },
+            "code": "E08000033",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 359,
+                "daily": 0
+            },
+            "name": "Calderdale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 114,
+                "daily": 2
+            },
+            "name": "Cambridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E09000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 313,
+                "daily": 2
+            },
+            "name": "Camden"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E07000192",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 312,
+                "daily": 2
+            },
+            "name": "Cannock Chase"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000106",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 488,
+                "daily": 4
+            },
+            "name": "Canterbury"
+        },
+        {
+            "cases": {
+                "cumulative": 25033,
+                "daily": 43
+            },
+            "code": "W06000015",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Cardiff"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000028",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 366,
+                "daily": 0
+            },
+            "name": "Carlisle"
+        },
+        {
+            "cases": {
+                "cumulative": 10359,
+                "daily": 16
+            },
+            "code": "W06000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Carmarthenshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000069",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 414,
+                "daily": 3
+            },
+            "name": "Castle Point"
+        },
+        {
+            "cases": {
+                "cumulative": 6771,
+                "daily": 8
+            },
+            "code": "N09000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Causeway Coast and Glens"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 43
+            },
+            "code": "E06000056",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 650,
+                "daily": 2
+            },
+            "name": "Central Bedfordshire"
+        },
+        {
+            "cases": {
+                "cumulative": 1706,
+                "daily": 3
+            },
+            "code": "W06000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Ceredigion"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 35
+            },
+            "code": "E07000130",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 375,
+                "daily": 1
+            },
+            "name": "Charnwood"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E07000070",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 456,
+                "daily": 1
+            },
+            "name": "Chelmsford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000078",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 221,
+                "daily": 0
+            },
+            "name": "Cheltenham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E07000177",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 216,
+                "daily": 1
+            },
+            "name": "Cherwell"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 56
+            },
+            "code": "E06000049",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 999,
+                "daily": 1
+            },
+            "name": "Cheshire East"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 53
+            },
+            "code": "E06000050",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1059,
+                "daily": 4
+            },
+            "name": "Cheshire West and Chester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E07000034",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 235,
+                "daily": 1
+            },
+            "name": "Chesterfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000225",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 278,
+                "daily": 2
+            },
+            "name": "Chichester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 193,
+                "daily": 1
+            },
+            "name": "Chiltern"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000118",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 296,
+                "daily": 0
+            },
+            "name": "Chorley"
+        },
+        {
+            "cases": {
+                "cumulative": 15104,
+                "daily": 70
+            },
+            "code": "S12000036",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "City of Edinburgh"
+        },
+        {
+            "cases": {
+                "cumulative": 1962,
+                "daily": 14
+            },
+            "code": "S12000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Clackmannanshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 32
+            },
+            "code": "E07000071",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 428,
+                "daily": 3
+            },
+            "name": "Colchester"
+        },
+        {
+            "cases": {
+                "cumulative": 262,
+                "daily": 1
+            },
+            "code": "S12000013",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Comhairle nan Eilean Siar"
+        },
+        {
+            "cases": {
+                "cumulative": 3449,
+                "daily": 19
+            },
+            "code": "W06000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Conwy"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000029",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 212,
+                "daily": 3
+            },
+            "name": "Copeland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 36
+            },
+            "code": "E07000150",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 155,
+                "daily": 0
+            },
+            "name": "Corby"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 33
+            },
+            "code": "E06000052",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 522,
+                "daily": 0
+            },
+            "name": "Cornwall and Isles of Scilly"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000079",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 152,
+                "daily": 0
+            },
+            "name": "Cotswold"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 116
+            },
+            "code": "E06000047",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1531,
+                "daily": 9
+            },
+            "name": "County Durham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 56
+            },
+            "code": "E08000026",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 615,
+                "daily": 3
+            },
+            "name": "Coventry"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000163",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 123,
+                "daily": 0
+            },
+            "name": "Craven"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000226",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 226,
+                "daily": 1
+            },
+            "name": "Crawley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 53
+            },
+            "code": "E09000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 954,
+                "daily": 4
+            },
+            "name": "Croydon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000096",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 361,
+                "daily": 1
+            },
+            "name": "Dacorum"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E06000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 318,
+                "daily": 1
+            },
+            "name": "Darlington"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000107",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 331,
+                "daily": 1
+            },
+            "name": "Dartford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000151",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 160,
+                "daily": 1
+            },
+            "name": "Daventry"
+        },
+        {
+            "cases": {
+                "cumulative": 4093,
+                "daily": 14
+            },
+            "code": "W06000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Denbighshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 79
+            },
+            "code": "E06000015",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 774,
+                "daily": 2
+            },
+            "name": "Derby"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000035",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 164,
+                "daily": 0
+            },
+            "name": "Derbyshire Dales"
+        },
+        {
+            "cases": {
+                "cumulative": 11068,
+                "daily": 11
+            },
+            "code": "N09000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Derry City and Strabane"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 79
+            },
+            "code": "E08000017",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 997,
+                "daily": 2
+            },
+            "name": "Doncaster"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E06000059",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 589,
+                "daily": 4
+            },
+            "name": "Dorset"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000108",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 380,
+                "daily": 1
+            },
+            "name": "Dover"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 74
+            },
+            "code": "E08000027",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 874,
+                "daily": 1
+            },
+            "name": "Dudley"
+        },
+        {
+            "cases": {
+                "cumulative": 3993,
+                "daily": 8
+            },
+            "code": "S12000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Dumfries and Galloway"
+        },
+        {
+            "cases": {
+                "cumulative": 6138,
+                "daily": 8
+            },
+            "code": "S12000042",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Dundee City"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 61
+            },
+            "code": "E09000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 711,
+                "daily": 4
+            },
+            "name": "Ealing"
+        },
+        {
+            "cases": {
+                "cumulative": 5691,
+                "daily": 22
+            },
+            "code": "S12000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "East Ayrshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 111,
+                "daily": 1
+            },
+            "name": "East Cambridgeshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000040",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 211,
+                "daily": 0
+            },
+            "name": "East Devon"
+        },
+        {
+            "cases": {
+                "cumulative": 4671,
+                "daily": 17
+            },
+            "code": "S12000045",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "East Dunbartonshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000085",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 228,
+                "daily": 3
+            },
+            "name": "East Hampshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000242",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 259,
+                "daily": 1
+            },
+            "name": "East Hertfordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000137",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 450,
+                "daily": 0
+            },
+            "name": "East Lindsey"
+        },
+        {
+            "cases": {
+                "cumulative": 2474,
+                "daily": 25
+            },
+            "code": "S12000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "East Lothian"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E07000152",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 227,
+                "daily": 2
+            },
+            "name": "East Northamptonshire"
+        },
+        {
+            "cases": {
+                "cumulative": 4185,
+                "daily": 20
+            },
+            "code": "S12000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "East Renfrewshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 49
+            },
+            "code": "E06000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 891,
+                "daily": 4
+            },
+            "name": "East Riding of Yorkshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E07000193",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 465,
+                "daily": 8
+            },
+            "name": "East Staffordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E07000244",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 584,
+                "daily": 4
+            },
+            "name": "East Suffolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000061",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 342,
+                "daily": 1
+            },
+            "name": "Eastbourne"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E07000086",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 203,
+                "daily": 0
+            },
+            "name": "Eastleigh"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000030",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 149,
+                "daily": 1
+            },
+            "name": "Eden"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000207",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 313,
+                "daily": 1
+            },
+            "name": "Elmbridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 29
+            },
+            "code": "E09000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 703,
+                "daily": 0
+            },
+            "name": "Enfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000072",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 420,
+                "daily": 1
+            },
+            "name": "Epping Forest"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000208",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 211,
+                "daily": 1
+            },
+            "name": "Epsom and Ewell"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 40
+            },
+            "code": "E07000036",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 330,
+                "daily": 1
+            },
+            "name": "Erewash"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000041",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 141,
+                "daily": 1
+            },
+            "name": "Exeter"
+        },
+        {
+            "cases": {
+                "cumulative": 5507,
+                "daily": 33
+            },
+            "code": "S12000014",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Falkirk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000087",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 310,
+                "daily": 3
+            },
+            "name": "Fareham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 243,
+                "daily": 0
+            },
+            "name": "Fenland"
+        },
+        {
+            "cases": {
+                "cumulative": 5519,
+                "daily": 2
+            },
+            "code": "N09000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Fermanagh and Omagh"
+        },
+        {
+            "cases": {
+                "cumulative": 9659,
+                "daily": 26
+            },
+            "code": "S12000047",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Fife"
+        },
+        {
+            "cases": {
+                "cumulative": 9014,
+                "daily": 25
+            },
+            "code": "W06000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Flintshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000112",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 471,
+                "daily": 4
+            },
+            "name": "Folkestone and Hythe"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000080",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 131,
+                "daily": 1
+            },
+            "name": "Forest of Dean"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 22
+            },
+            "code": "E07000119",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 327,
+                "daily": 1
+            },
+            "name": "Fylde"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 33
+            },
+            "code": "E08000037",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 543,
+                "daily": 0
+            },
+            "name": "Gateshead"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000173",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 307,
+                "daily": 3
+            },
+            "name": "Gedling"
+        },
+        {
+            "cases": {
+                "cumulative": 36468,
+                "daily": 149
+            },
+            "code": "S12000049",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Glasgow City"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000081",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 247,
+                "daily": 1
+            },
+            "name": "Gloucester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000088",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 187,
+                "daily": 0
+            },
+            "name": "Gosport"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000109",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 338,
+                "daily": 2
+            },
+            "name": "Gravesham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000145",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 271,
+                "daily": 1
+            },
+            "name": "Great Yarmouth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E09000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 492,
+                "daily": 1
+            },
+            "name": "Greenwich"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000209",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 226,
+                "daily": 1
+            },
+            "name": "Guildford"
+        },
+        {
+            "cases": {
+                "cumulative": 2852,
+                "daily": 13
+            },
+            "code": "W06000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Gwynedd"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E09000012",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 466,
+                "daily": 3
+            },
+            "name": "Hackney and City of London"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E06000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 317,
+                "daily": 1
+            },
+            "name": "Halton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000164",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 152,
+                "daily": 0
+            },
+            "name": "Hambleton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E09000013",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 281,
+                "daily": 3
+            },
+            "name": "Hammersmith and Fulham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000131",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 186,
+                "daily": 1
+            },
+            "name": "Harborough"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E09000014",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 430,
+                "daily": 1
+            },
+            "name": "Haringey"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000073",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 216,
+                "daily": 0
+            },
+            "name": "Harlow"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000165",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 237,
+                "daily": 0
+            },
+            "name": "Harrogate"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 38
+            },
+            "code": "E09000015",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 583,
+                "daily": 1
+            },
+            "name": "Harrow"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000089",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 175,
+                "daily": 0
+            },
+            "name": "Hart"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E06000001",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 304,
+                "daily": 2
+            },
+            "name": "Hartlepool"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000062",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 270,
+                "daily": 2
+            },
+            "name": "Hastings"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000090",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 332,
+                "daily": 2
+            },
+            "name": "Havant"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E09000016",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 952,
+                "daily": 1
+            },
+            "name": "Havering"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E06000019",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 337,
+                "daily": 2
+            },
+            "name": "Herefordshire, County of"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000098",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 333,
+                "daily": 0
+            },
+            "name": "Hertsmere"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000037",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 272,
+                "daily": 0
+            },
+            "name": "High Peak"
+        },
+        {
+            "cases": {
+                "cumulative": 3105,
+                "daily": 17
+            },
+            "code": "S12000017",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Highland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 38
+            },
+            "code": "E09000017",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 687,
+                "daily": 6
+            },
+            "name": "Hillingdon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000132",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 224,
+                "daily": 0
+            },
+            "name": "Hinckley and Bosworth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000227",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 260,
+                "daily": 1
+            },
+            "name": "Horsham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 53
+            },
+            "code": "E09000018",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 630,
+                "daily": 4
+            },
+            "name": "Hounslow"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 31
+            },
+            "code": "E07000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 312,
+                "daily": 1
+            },
+            "name": "Huntingdonshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E07000120",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 243,
+                "daily": 2
+            },
+            "name": "Hyndburn"
+        },
+        {
+            "cases": {
+                "cumulative": 2799,
+                "daily": 5
+            },
+            "code": "S12000018",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Inverclyde"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000202",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 355,
+                "daily": 1
+            },
+            "name": "Ipswich"
+        },
+        {
+            "cases": {
+                "cumulative": 1918,
+                "daily": 7
+            },
+            "code": "W06000001",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Isle of Anglesey"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 3
+            },
+            "code": "E06000046",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 285,
+                "daily": 1
+            },
+            "name": "Isle of Wight"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E09000019",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 334,
+                "daily": 1
+            },
+            "name": "Islington"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E09000020",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 242,
+                "daily": 1
+            },
+            "name": "Kensington and Chelsea"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000153",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 227,
+                "daily": 1
+            },
+            "name": "Kettering"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E07000146",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 453,
+                "daily": 0
+            },
+            "name": "King's Lynn and West Norfolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 50
+            },
+            "code": "E06000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 733,
+                "daily": 2
+            },
+            "name": "Kingston upon Hull, City of"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E09000021",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 350,
+                "daily": 1
+            },
+            "name": "Kingston upon Thames"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 175
+            },
+            "code": "E08000034",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 967,
+                "daily": 3
+            },
+            "name": "Kirklees"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 57
+            },
+            "code": "E08000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 488,
+                "daily": 1
+            },
+            "name": "Knowsley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E09000022",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 591,
+                "daily": 2
+            },
+            "name": "Lambeth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 48
+            },
+            "code": "E07000121",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 341,
+                "daily": 2
+            },
+            "name": "Lancaster"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 209
+            },
+            "code": "E08000035",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1524,
+                "daily": 4
+            },
+            "name": "Leeds"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 127
+            },
+            "code": "E06000016",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 890,
+                "daily": 2
+            },
+            "name": "Leicester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000063",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 249,
+                "daily": 2
+            },
+            "name": "Lewes"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E09000023",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 601,
+                "daily": 1
+            },
+            "name": "Lewisham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000194",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 342,
+                "daily": 0
+            },
+            "name": "Lichfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000138",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 217,
+                "daily": 1
+            },
+            "name": "Lincoln"
+        },
+        {
+            "cases": {
+                "cumulative": 6875,
+                "daily": 20
+            },
+            "code": "N09000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Lisburn and Castlereagh"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 132
+            },
+            "code": "E08000012",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1409,
+                "daily": 2
+            },
+            "name": "Liverpool"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 51
+            },
+            "code": "E06000032",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 578,
+                "daily": 2
+            },
+            "name": "Luton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000110",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 459,
+                "daily": 1
+            },
+            "name": "Maidstone"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000074",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 154,
+                "daily": 1
+            },
+            "name": "Maldon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000235",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 147,
+                "daily": 1
+            },
+            "name": "Malvern Hills"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 176
+            },
+            "code": "E08000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1196,
+                "daily": 1
+            },
+            "name": "Manchester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E07000174",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 307,
+                "daily": 1
+            },
+            "name": "Mansfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 33
+            },
+            "code": "E06000035",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 874,
+                "daily": 3
+            },
+            "name": "Medway"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000133",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 117,
+                "daily": 0
+            },
+            "name": "Melton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E07000187",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 185,
+                "daily": 1
+            },
+            "name": "Mendip"
+        },
+        {
+            "cases": {
+                "cumulative": 6364,
+                "daily": 6
+            },
+            "code": "W06000024",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Merthyr Tydfil"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E09000024",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 462,
+                "daily": 1
+            },
+            "name": "Merton"
+        },
+        {
+            "cases": {
+                "cumulative": 7090,
+                "daily": 19
+            },
+            "code": "N09000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Mid and East Antrim"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000042",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 84,
+                "daily": 0
+            },
+            "name": "Mid Devon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000203",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 215,
+                "daily": 1
+            },
+            "name": "Mid Suffolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000228",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 326,
+                "daily": 2
+            },
+            "name": "Mid Sussex"
+        },
+        {
+            "cases": {
+                "cumulative": 11411,
+                "daily": 18
+            },
+            "code": "N09000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Mid Ulster"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 43
+            },
+            "code": "E06000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 411,
+                "daily": 1
+            },
+            "name": "Middlesbrough"
+        },
+        {
+            "cases": {
+                "cumulative": 2795,
+                "daily": 15
+            },
+            "code": "S12000019",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Midlothian"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 67
+            },
+            "code": "E06000042",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 519,
+                "daily": 3
+            },
+            "name": "Milton Keynes"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000210",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 256,
+                "daily": 2
+            },
+            "name": "Mole Valley"
+        },
+        {
+            "cases": {
+                "cumulative": 4040,
+                "daily": 7
+            },
+            "code": "W06000021",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Monmouthshire"
+        },
+        {
+            "cases": {
+                "cumulative": 1193,
+                "daily": 10
+            },
+            "code": "S12000020",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Moray"
+        },
+        {
+            "cases": {
+                "cumulative": 11181,
+                "daily": 10
+            },
+            "code": "W06000012",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Neath Port Talbot"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E07000091",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 345,
+                "daily": 3
+            },
+            "name": "New Forest"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000175",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 236,
+                "daily": 1
+            },
+            "name": "Newark and Sherwood"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 40
+            },
+            "code": "E08000021",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 560,
+                "daily": 2
+            },
+            "name": "Newcastle upon Tyne"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E07000195",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 420,
+                "daily": 0
+            },
+            "name": "Newcastle-under-Lyme"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 36
+            },
+            "code": "E09000025",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 692,
+                "daily": 2
+            },
+            "name": "Newham"
+        },
+        {
+            "cases": {
+                "cumulative": 10755,
+                "daily": 12
+            },
+            "code": "W06000022",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Newport"
+        },
+        {
+            "cases": {
+                "cumulative": 10699,
+                "daily": 10
+            },
+            "code": "N09000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Newry, Mourne and Down"
+        },
+        {
+            "cases": {
+                "cumulative": 5587,
+                "daily": 22
+            },
+            "code": "S12000021",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "North Ayrshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1
+            },
+            "code": "E07000043",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 85,
+                "daily": 0
+            },
+            "name": "North Devon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000038",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 286,
+                "daily": 0
+            },
+            "name": "North East Derbyshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 41
+            },
+            "code": "E06000012",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 305,
+                "daily": 0
+            },
+            "name": "North East Lincolnshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000099",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 310,
+                "daily": 1
+            },
+            "name": "North Hertfordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000139",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 258,
+                "daily": 1
+            },
+            "name": "North Kesteven"
+        },
+        {
+            "cases": {
+                "cumulative": 19143,
+                "daily": 62
+            },
+            "code": "S12000050",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "North Lanarkshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E06000013",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 386,
+                "daily": 1
+            },
+            "name": "North Lincolnshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000147",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 222,
+                "daily": 2
+            },
+            "name": "North Norfolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 39
+            },
+            "code": "E06000024",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 374,
+                "daily": 2
+            },
+            "name": "North Somerset"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 41
+            },
+            "code": "E08000022",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 466,
+                "daily": 1
+            },
+            "name": "North Tyneside"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E07000218",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 194,
+                "daily": 0
+            },
+            "name": "North Warwickshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000134",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 249,
+                "daily": 1
+            },
+            "name": "North West Leicestershire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 49
+            },
+            "code": "E07000154",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 593,
+                "daily": 0
+            },
+            "name": "Northampton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 57
+            },
+            "code": "E06000057",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 792,
+                "daily": 4
+            },
+            "name": "Northumberland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000148",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 239,
+                "daily": 3
+            },
+            "name": "Norwich"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 59
+            },
+            "code": "E06000018",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 704,
+                "daily": 2
+            },
+            "name": "Nottingham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E07000219",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 348,
+                "daily": 0
+            },
+            "name": "Nuneaton and Bedworth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000135",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 188,
+                "daily": 0
+            },
+            "name": "Oadby and Wigston"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 61
+            },
+            "code": "E08000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 737,
+                "daily": 1
+            },
+            "name": "Oldham"
+        },
+        {
+            "cases": {
+                "cumulative": 70,
+                "daily": 0
+            },
+            "code": "S12000023",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Orkney Islands"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000178",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 169,
+                "daily": 0
+            },
+            "name": "Oxford"
+        },
+        {
+            "cases": {
+                "cumulative": 3265,
+                "daily": 4
+            },
+            "code": "W06000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Pembrokeshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000122",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 296,
+                "daily": 2
+            },
+            "name": "Pendle"
+        },
+        {
+            "cases": {
+                "cumulative": 3927,
+                "daily": 3
+            },
+            "code": "S12000048",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Perth and Kinross"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 69
+            },
+            "code": "E06000031",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 401,
+                "daily": 0
+            },
+            "name": "Peterborough"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E06000026",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 274,
+                "daily": 1
+            },
+            "name": "Plymouth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E06000044",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 398,
+                "daily": 1
+            },
+            "name": "Portsmouth"
+        },
+        {
+            "cases": {
+                "cumulative": 3879,
+                "daily": 7
+            },
+            "code": "W06000023",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Powys"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 60
+            },
+            "code": "E07000123",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 391,
+                "daily": 2
+            },
+            "name": "Preston"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E06000038",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 299,
+                "daily": 0
+            },
+            "name": "Reading"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 43
+            },
+            "code": "E09000026",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 848,
+                "daily": 1
+            },
+            "name": "Redbridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 33
+            },
+            "code": "E06000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 351,
+                "daily": 0
+            },
+            "name": "Redcar and Cleveland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E07000236",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 211,
+                "daily": 1
+            },
+            "name": "Redditch"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000211",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 437,
+                "daily": 2
+            },
+            "name": "Reigate and Banstead"
+        },
+        {
+            "cases": {
+                "cumulative": 9373,
+                "daily": 35
+            },
+            "code": "S12000038",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Renfrewshire"
+        },
+        {
+            "cases": {
+                "cumulative": 20862,
+                "daily": 22
+            },
+            "code": "W06000016",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Rhondda Cynon Taf"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 17
+            },
+            "code": "E07000124",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 173,
+                "daily": 0
+            },
+            "name": "Ribble Valley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E09000027",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 315,
+                "daily": 0
+            },
+            "name": "Richmond upon Thames"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000166",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 100,
+                "daily": 0
+            },
+            "name": "Richmondshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 67
+            },
+            "code": "E08000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 730,
+                "daily": 2
+            },
+            "name": "Rochdale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000075",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 290,
+                "daily": 2
+            },
+            "name": "Rochford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000125",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 172,
+                "daily": 1
+            },
+            "name": "Rossendale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 2
+            },
+            "code": "E07000064",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 380,
+                "daily": 1
+            },
+            "name": "Rother"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 87
+            },
+            "code": "E08000018",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 881,
+                "daily": 2
+            },
+            "name": "Rotherham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 28
+            },
+            "code": "E07000220",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 186,
+                "daily": 2
+            },
+            "name": "Rugby"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 3
+            },
+            "code": "E07000212",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 176,
+                "daily": 0
+            },
+            "name": "Runnymede"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000176",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 268,
+                "daily": 1
+            },
+            "name": "Rushcliffe"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000092",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 222,
+                "daily": 1
+            },
+            "name": "Rushmoor"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E06000017",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 64,
+                "daily": 2
+            },
+            "name": "Rutland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000167",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 81,
+                "daily": 0
+            },
+            "name": "Ryedale"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 87
+            },
+            "code": "E08000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 667,
+                "daily": 1
+            },
+            "name": "Salford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 90
+            },
+            "code": "E08000028",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1164,
+                "daily": 7
+            },
+            "name": "Sandwell"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000168",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 246,
+                "daily": 0
+            },
+            "name": "Scarborough"
+        },
+        {
+            "cases": {
+                "cumulative": 2790,
+                "daily": 6
+            },
+            "code": "S12000026",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Scottish Borders"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 28
+            },
+            "code": "E07000188",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 192,
+                "daily": 2
+            },
+            "name": "Sedgemoor"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 47
+            },
+            "code": "E08000014",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 933,
+                "daily": 2
+            },
+            "name": "Sefton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 22
+            },
+            "code": "E07000169",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 128,
+                "daily": 1
+            },
+            "name": "Selby"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000111",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 286,
+                "daily": 1
+            },
+            "name": "Sevenoaks"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 149
+            },
+            "code": "E08000019",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1368,
+                "daily": 2
+            },
+            "name": "Sheffield"
+        },
+        {
+            "cases": {
+                "cumulative": 212,
+                "daily": 0
+            },
+            "code": "S12000027",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Shetland Islands"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 50
+            },
+            "code": "E06000051",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 655,
+                "daily": 1
+            },
+            "name": "Shropshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 48
+            },
+            "code": "E06000039",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 329,
+                "daily": 4
+            },
+            "name": "Slough"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 41
+            },
+            "code": "E08000029",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 648,
+                "daily": 2
+            },
+            "name": "Solihull"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000246",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 230,
+                "daily": 2
+            },
+            "name": "Somerset West and Taunton"
+        },
+        {
+            "cases": {
+                "cumulative": 3771,
+                "daily": 13
+            },
+            "code": "S12000028",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "South Ayrshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 204,
+                "daily": 0
+            },
+            "name": "South Bucks"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000012",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 174,
+                "daily": 0
+            },
+            "name": "South Cambridgeshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000039",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 268,
+                "daily": 1
+            },
+            "name": "South Derbyshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 51
+            },
+            "code": "E06000025",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 406,
+                "daily": 3
+            },
+            "name": "South Gloucestershire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1
+            },
+            "code": "E07000044",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 42,
+                "daily": 0
+            },
+            "name": "South Hams"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000140",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 231,
+                "daily": 3
+            },
+            "name": "South Holland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 32
+            },
+            "code": "E07000141",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 308,
+                "daily": 0
+            },
+            "name": "South Kesteven"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 3
+            },
+            "code": "E07000031",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 288,
+                "daily": 1
+            },
+            "name": "South Lakeland"
+        },
+        {
+            "cases": {
+                "cumulative": 16963,
+                "daily": 41
+            },
+            "code": "S12000029",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "South Lanarkshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000149",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 252,
+                "daily": 1
+            },
+            "name": "South Norfolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000155",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 144,
+                "daily": 0
+            },
+            "name": "South Northamptonshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000179",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 211,
+                "daily": 0
+            },
+            "name": "South Oxfordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 32
+            },
+            "code": "E07000126",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 243,
+                "daily": 2
+            },
+            "name": "South Ribble"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 22
+            },
+            "code": "E07000189",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 187,
+                "daily": 0
+            },
+            "name": "South Somerset"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000196",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 307,
+                "daily": 2
+            },
+            "name": "South Staffordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E08000023",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 506,
+                "daily": 2
+            },
+            "name": "South Tyneside"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 37
+            },
+            "code": "E06000045",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 373,
+                "daily": 1
+            },
+            "name": "Southampton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E06000033",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 708,
+                "daily": 1
+            },
+            "name": "Southend-on-Sea"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 28
+            },
+            "code": "E09000028",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 435,
+                "daily": 3
+            },
+            "name": "Southwark"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 24
+            },
+            "code": "E07000213",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 228,
+                "daily": 0
+            },
+            "name": "Spelthorne"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000240",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 358,
+                "daily": 1
+            },
+            "name": "St Albans"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 80
+            },
+            "code": "E08000013",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 529,
+                "daily": 3
+            },
+            "name": "St. Helens"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E07000197",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 399,
+                "daily": 0
+            },
+            "name": "Stafford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000198",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 326,
+                "daily": 0
+            },
+            "name": "Staffordshire Moorlands"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000243",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 159,
+                "daily": 1
+            },
+            "name": "Stevenage"
+        },
+        {
+            "cases": {
+                "cumulative": 2786,
+                "daily": 16
+            },
+            "code": "S12000030",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Stirling"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 114
+            },
+            "code": "E08000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 807,
+                "daily": 0
+            },
+            "name": "Stockport"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 56
+            },
+            "code": "E06000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 540,
+                "daily": 1
+            },
+            "name": "Stockton-on-Tees"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 45
+            },
+            "code": "E06000021",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 807,
+                "daily": 4
+            },
+            "name": "Stoke-on-Trent"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000221",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 329,
+                "daily": 1
+            },
+            "name": "Stratford-on-Avon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000082",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 203,
+                "daily": 0
+            },
+            "name": "Stroud"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 74
+            },
+            "code": "E08000024",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 918,
+                "daily": 3
+            },
+            "name": "Sunderland"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000214",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 264,
+                "daily": 2
+            },
+            "name": "Surrey Heath"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E09000029",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 495,
+                "daily": 1
+            },
+            "name": "Sutton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000113",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 522,
+                "daily": 3
+            },
+            "name": "Swale"
+        },
+        {
+            "cases": {
+                "cumulative": 16664,
+                "daily": 19
+            },
+            "code": "W06000011",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Swansea"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 32
+            },
+            "code": "E06000030",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 326,
+                "daily": 0
+            },
+            "name": "Swindon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 90
+            },
+            "code": "E08000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 813,
+                "daily": 3
+            },
+            "name": "Tameside"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E07000199",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 236,
+                "daily": 3
+            },
+            "name": "Tamworth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000215",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 247,
+                "daily": 0
+            },
+            "name": "Tandridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 10
+            },
+            "code": "E07000045",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 144,
+                "daily": 1
+            },
+            "name": "Teignbridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 47
+            },
+            "code": "E06000020",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 303,
+                "daily": 2
+            },
+            "name": "Telford and Wrekin"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 14
+            },
+            "code": "E07000076",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 650,
+                "daily": 1
+            },
+            "name": "Tendring"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 16
+            },
+            "code": "E07000093",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 229,
+                "daily": 1
+            },
+            "name": "Test Valley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000083",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 164,
+                "daily": 0
+            },
+            "name": "Tewkesbury"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 27
+            },
+            "code": "E07000114",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 487,
+                "daily": 2
+            },
+            "name": "Thanet"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 9
+            },
+            "code": "E07000102",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 267,
+                "daily": 0
+            },
+            "name": "Three Rivers"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 30
+            },
+            "code": "E06000034",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 502,
+                "daily": 1
+            },
+            "name": "Thurrock"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000115",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 245,
+                "daily": 1
+            },
+            "name": "Tonbridge and Malling"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E06000027",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 168,
+                "daily": 1
+            },
+            "name": "Torbay"
+        },
+        {
+            "cases": {
+                "cumulative": 6233,
+                "daily": 15
+            },
+            "code": "W06000020",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Torfaen"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 0
+            },
+            "code": "E07000046",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 63,
+                "daily": 0
+            },
+            "name": "Torridge"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 22
+            },
+            "code": "E09000030",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 454,
+                "daily": 3
+            },
+            "name": "Tower Hamlets"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 80
+            },
+            "code": "E08000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 542,
+                "daily": 5
+            },
+            "name": "Trafford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000116",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 239,
+                "daily": 0
+            },
+            "name": "Tunbridge Wells"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 6
+            },
+            "code": "E07000077",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 153,
+                "daily": 1
+            },
+            "name": "Uttlesford"
+        },
+        {
+            "cases": {
+                "cumulative": 7148,
+                "daily": 4
+            },
+            "code": "W06000014",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Vale of Glamorgan"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000180",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 143,
+                "daily": 1
+            },
+            "name": "Vale of White Horse"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 116
+            },
+            "code": "E08000036",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 879,
+                "daily": 6
+            },
+            "name": "Wakefield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 94
+            },
+            "code": "E08000030",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 988,
+                "daily": 4
+            },
+            "name": "Walsall"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E09000031",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 555,
+                "daily": 2
+            },
+            "name": "Waltham Forest"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E09000032",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 517,
+                "daily": 1
+            },
+            "name": "Wandsworth"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 54
+            },
+            "code": "E06000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 595,
+                "daily": 2
+            },
+            "name": "Warrington"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 25
+            },
+            "code": "E07000222",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 269,
+                "daily": 5
+            },
+            "name": "Warwick"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E07000103",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 292,
+                "daily": 2
+            },
+            "name": "Watford"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E07000216",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 300,
+                "daily": 0
+            },
+            "name": "Waverley"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 7
+            },
+            "code": "E07000065",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 375,
+                "daily": 1
+            },
+            "name": "Wealden"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 18
+            },
+            "code": "E07000156",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 173,
+                "daily": 2
+            },
+            "name": "Wellingborough"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 8
+            },
+            "code": "E07000241",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 274,
+                "daily": 1
+            },
+            "name": "Welwyn Hatfield"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 21
+            },
+            "code": "E06000037",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 212,
+                "daily": 0
+            },
+            "name": "West Berkshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 0
+            },
+            "code": "E07000047",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 41,
+                "daily": 0
+            },
+            "name": "West Devon"
+        },
+        {
+            "cases": {
+                "cumulative": 3989,
+                "daily": 23
+            },
+            "code": "S12000039",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "West Dunbartonshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 32
+            },
+            "code": "E07000127",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 336,
+                "daily": 2
+            },
+            "name": "West Lancashire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 35
+            },
+            "code": "E07000142",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 215,
+                "daily": 3
+            },
+            "name": "West Lindsey"
+        },
+        {
+            "cases": {
+                "cumulative": 6447,
+                "daily": 29
+            },
+            "code": "S12000040",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "West Lothian"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 5
+            },
+            "code": "E07000181",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 165,
+                "daily": 2
+            },
+            "name": "West Oxfordshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000245",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 236,
+                "daily": 0
+            },
+            "name": "West Suffolk"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 13
+            },
+            "code": "E09000033",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 368,
+                "daily": 4
+            },
+            "name": "Westminster"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 105
+            },
+            "code": "E08000010",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 1152,
+                "daily": 2
+            },
+            "name": "Wigan"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 70
+            },
+            "code": "E06000054",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 755,
+                "daily": 4
+            },
+            "name": "Wiltshire"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 4
+            },
+            "code": "E07000094",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 219,
+                "daily": 2
+            },
+            "name": "Winchester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 23
+            },
+            "code": "E06000040",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 341,
+                "daily": 1
+            },
+            "name": "Windsor and Maidenhead"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 43
+            },
+            "code": "E08000015",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 994,
+                "daily": 0
+            },
+            "name": "Wirral"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E07000217",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 196,
+                "daily": 1
+            },
+            "name": "Woking"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 12
+            },
+            "code": "E06000041",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 294,
+                "daily": 0
+            },
+            "name": "Wokingham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 77
+            },
+            "code": "E08000031",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 867,
+                "daily": 2
+            },
+            "name": "Wolverhampton"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 19
+            },
+            "code": "E07000237",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 200,
+                "daily": 1
+            },
+            "name": "Worcester"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 11
+            },
+            "code": "E07000229",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 226,
+                "daily": 3
+            },
+            "name": "Worthing"
+        },
+        {
+            "cases": {
+                "cumulative": 11042,
+                "daily": 22
+            },
+            "code": "W06000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": null,
+                "daily": null
+            },
+            "name": "Wrexham"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 15
+            },
+            "code": "E07000238",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 279,
+                "daily": 1
+            },
+            "name": "Wychavon"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 26
+            },
+            "code": "E07000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 359,
+                "daily": 2
+            },
+            "name": "Wycombe"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E07000128",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 426,
+                "daily": 1
+            },
+            "name": "Wyre"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 20
+            },
+            "code": "E07000239",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 273,
+                "daily": 0
+            },
+            "name": "Wyre Forest"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 28
+            },
+            "code": "E06000014",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 362,
+                "daily": 1
+            },
+            "name": "York"
+        }
+    ],
+    "length": 380,
+    "maxPageLimit": 2500,
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dltla%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "first": "/v1/data?filters=areaType%3Dltla%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dltla%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null
+    }
+}

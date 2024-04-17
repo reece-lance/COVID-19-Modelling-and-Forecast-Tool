@@ -1,0 +1,56 @@
+
+ -------------- The Product
+    The main objectives of this COVID-19 modeling and forecasting tool are to retrieve live data and display it in a way that enables
+    easier understanding and greater insights to current, past and future COVID-19 figures. To ensure the best of such understanding, various
+    calculations, predictive algorithms and statistical graphs were constructed along with splendind methods that allow users to compare
+    data regionally and internationally by making use of comparison tables and regional maps.
+
+ -------------- The Team Behind The Product
+    This product has been made possible by the efforts of a very talented team of Data Science and Analytics (BSc) students at The University of Essex.
+    The project was tasked to the team as part of the Computer Science and Electronic Engineering Department module CE291 - Team Project Challenge.
+
+ -------------- Credits
+
+ CE291-TEAM02 2020/21:
+     Filip Vlcek
+     Reece Lance
+     Dean Makwarimba
+     Sanskar Gupta
+     Syed Nasimudin Bin
+     Javier Diaz Garcia
+
+ ------- Supervisor
+     Thank you Dr Anirban Chowdhury for overseeing our team
+
+ ------- Consultant
+     Thank you Dr Dan Brawn for helping us in getting a grasp of the mathematical side of things
+
+ -------------- Software That Powers Our Applicaiton
+
+ ------- Integrated Browser
+     Thanks to the CEF project for creating a simple framework for embedding Chromium-based browsers
+     Thanks to the JCEF project for creating a Java wrapper around the Chromium Embedded Framework (CEF)
+     Thanks to the Journey project that provides a convenient redistribution of JCEF https://github.com/CodeBrig/Journey
+
+ --------------  Data Sources
+
+ ------- Country Comparison
+     Thanks to disease.sh for providing COVID-19 worldometer data
+
+ ------- Graphs/Colour Coded Map
+     Thanks to the UK COVID-19 dashboard for providing COVID-19 measures data
+
+     Contains public sector information licensed under the Open Government Licence v3.0.
+
+ ------- Colour Coded Map
+     Thanks to findthatposcode.uk for providing GeoJSON files used for generating rasterized maps
+
+     Postcode data from ONS used under Open Government License
+     Contains OS data © Crown copyright and database right 2021
+     Contains Royal Mail data © Royal Mail copyright and database right 2021
+     Contains National Statistics data © Crown copyright and database right 2021
+
+ -------------- Content Used
+     Image used ©Dmitriy Larichev
+     https://www.123rf.com/profile_larichev89
+     from www.123rf.com (standard license)

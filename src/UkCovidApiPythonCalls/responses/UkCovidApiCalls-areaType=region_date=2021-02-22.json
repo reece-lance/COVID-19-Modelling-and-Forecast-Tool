@@ -1,0 +1,1905 @@
+{
+    "data": [
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1077
+            },
+            "code": "E12000004",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 11809,
+                "daily": 36
+            },
+            "femaleCases": [
+                {
+                    "age": "80_to_84",
+                    "rate": 5311.8,
+                    "value": 3717
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 9018.1,
+                    "value": 12457
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1864.8,
+                    "value": 3094
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3214.4,
+                    "value": 4263
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 12110.3,
+                    "value": 16173
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 9086.2,
+                    "value": 12621
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5508.1,
+                    "value": 7798
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 2846.3,
+                    "value": 3805
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9104.1,
+                    "value": 13904
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 9569.0,
+                    "value": 14436
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8509.7,
+                    "value": 12909
+                },
+                {
+                    "age": "90+",
+                    "rate": 14909.1,
+                    "value": 4496
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3480.2,
+                    "value": 5029
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 8532.3,
+                    "value": 3877
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2219.3,
+                    "value": 2912
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6621.1,
+                    "value": 11628
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 8303.2,
+                    "value": 13507
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 3744.2,
+                    "value": 3524
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 8006.8,
+                    "value": 12059
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "75_to_79",
+                    "rate": 4096.5,
+                    "value": 3441
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 5477.6,
+                    "value": 3111
+                },
+                {
+                    "age": "90+",
+                    "rate": 13967.1,
+                    "value": 1879
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6059.4,
+                    "value": 10392
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2263.8,
+                    "value": 3138
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 6981.8,
+                    "value": 10069
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 6918.3,
+                    "value": 10010
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1985.3,
+                    "value": 3221
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5478.8,
+                    "value": 7559
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 7181.5,
+                    "value": 11780
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3763.7,
+                    "value": 4798
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3277.3,
+                    "value": 4930
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 7625.0,
+                    "value": 10363
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 9492.1,
+                    "value": 13335
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 8824.4,
+                    "value": 2709
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 7445.5,
+                    "value": 11904
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 7249.6,
+                    "value": 11460
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3218.8,
+                    "value": 4045
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7539.2,
+                    "value": 10993
+                }
+            ],
+            "name": "East Midlands",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 729
+            },
+            "code": "E12000006",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 15518,
+                "daily": 56
+            },
+            "femaleCases": [
+                {
+                    "age": "15_to_19",
+                    "rate": 6480.9,
+                    "value": 11853
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2240.1,
+                    "value": 4697
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7417.5,
+                    "value": 4803
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 7645.5,
+                    "value": 15891
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3959.0,
+                    "value": 7683
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5149.5,
+                    "value": 9284
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3219.3,
+                    "value": 5416
+                },
+                {
+                    "age": "90+",
+                    "rate": 13170.3,
+                    "value": 5777
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 7553.0,
+                    "value": 16015
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 3254.1,
+                    "value": 3998
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8288.0,
+                    "value": 16680
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9693.3,
+                    "value": 17723
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 4607.4,
+                    "value": 4412
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 2594.4,
+                    "value": 4548
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 8276.9,
+                    "value": 16070
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 10911.0,
+                    "value": 17729
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2256.8,
+                    "value": 4038
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 10351.5,
+                    "value": 16688
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6291.0,
+                    "value": 14162
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "25_to_29",
+                    "rate": 8336.4,
+                    "value": 14490
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5175.1,
+                    "value": 8969
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 5677.1,
+                    "value": 12443
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 7852.9,
+                    "value": 14796
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7271.4,
+                    "value": 14178
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2448.2,
+                    "value": 5027
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3032.2,
+                    "value": 4870
+                },
+                {
+                    "age": "90+",
+                    "rate": 12014.8,
+                    "value": 2507
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3684.8,
+                    "value": 7502
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 5300.4,
+                    "value": 10240
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 6831.3,
+                    "value": 13371
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 7118.8,
+                    "value": 13491
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 7902.6,
+                    "value": 13551
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 3738.9,
+                    "value": 4035
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 6696.3,
+                    "value": 13869
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7333.2,
+                    "value": 3248
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 4752.0,
+                    "value": 3707
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2250.1,
+                    "value": 4255
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3638.2,
+                    "value": 5677
+                }
+            ],
+            "name": "East of England",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 848
+            },
+            "code": "E12000007",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 18111,
+                "daily": 60
+            },
+            "femaleCases": [
+                {
+                    "age": "35_to_39",
+                    "rate": 8722.4,
+                    "value": 35616
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 8463.8,
+                    "value": 31917
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 10271.8,
+                    "value": 39627
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 8982.6,
+                    "value": 26531
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 3400.3,
+                    "value": 8594
+                },
+                {
+                    "age": "90+",
+                    "rate": 11348.6,
+                    "value": 4285
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 5800.2,
+                    "value": 9557
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7887.9,
+                    "value": 4386
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 5969.4,
+                    "value": 5091
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 7732.1,
+                    "value": 15469
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 4847.8,
+                    "value": 7096
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 5116.2,
+                    "value": 5455
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2825.7,
+                    "value": 8353
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 8712.3,
+                    "value": 28104
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7715.0,
+                    "value": 22135
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 14752.2,
+                    "value": 41594
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 4614.2,
+                    "value": 13574
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 7964.4,
+                    "value": 20879
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 14576.5,
+                    "value": 33089
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "10_to_14",
+                    "rate": 4484.9,
+                    "value": 13850
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 6094.3,
+                    "value": 5283
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 8396.8,
+                    "value": 16039
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7432.9,
+                    "value": 31945
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 6643.0,
+                    "value": 9842
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7509.9,
+                    "value": 21036
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 8005.8,
+                    "value": 24118
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 9115.9,
+                    "value": 3451
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 11032.4,
+                    "value": 26544
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2803.5,
+                    "value": 8702
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 6574.3,
+                    "value": 18109
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9246.2,
+                    "value": 35526
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 5664.9,
+                    "value": 7204
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 7247.0,
+                    "value": 29308
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 7030.3,
+                    "value": 4607
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 12273.0,
+                    "value": 34791
+                },
+                {
+                    "age": "90+",
+                    "rate": 11392.0,
+                    "value": 2244
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 7839.2,
+                    "value": 26532
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 3784.9,
+                    "value": 9187
+                }
+            ],
+            "name": "London",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 570
+            },
+            "code": "E12000001",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 7246,
+                "daily": 25
+            },
+            "femaleCases": [
+                {
+                    "age": "60_to_64",
+                    "rate": 6184.7,
+                    "value": 5353
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8890.7,
+                    "value": 7614
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 9572.2,
+                    "value": 2542
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2315.3,
+                    "value": 1594
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9331.7,
+                    "value": 8241
+                },
+                {
+                    "age": "90+",
+                    "rate": 16488.4,
+                    "value": 2544
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 4063.6,
+                    "value": 3096
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 9542.4,
+                    "value": 8232
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 13037.6,
+                    "value": 9152
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7698.8,
+                    "value": 7390
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 10162.8,
+                    "value": 7505
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 5799.4,
+                    "value": 2447
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4067.3,
+                    "value": 2115
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1789.4,
+                    "value": 1730
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3759.0,
+                    "value": 2901
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 9988.8,
+                    "value": 8476
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 8514.8,
+                    "value": 7024
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 10883.7,
+                    "value": 7997
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3223.0,
+                    "value": 2421
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "30_to_34",
+                    "rate": 7224.9,
+                    "value": 6633
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 9832.5,
+                    "value": 7389
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3666.1,
+                    "value": 2952
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 4141.0,
+                    "value": 2990
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 9155.1,
+                    "value": 1570
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2311.4,
+                    "value": 1685
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2057.0,
+                    "value": 1884
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6838.5,
+                    "value": 6236
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 8113.4,
+                    "value": 6621
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 6893.3,
+                    "value": 5396
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 8366.7,
+                    "value": 5917
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 8437.0,
+                    "value": 6520
+                },
+                {
+                    "age": "90+",
+                    "rate": 13247.0,
+                    "value": 951
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 7721.5,
+                    "value": 7091
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 6015.3,
+                    "value": 4953
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4409.7,
+                    "value": 1986
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 6017.1,
+                    "value": 1946
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7376.8,
+                    "value": 6150
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3714.1,
+                    "value": 2586
+                }
+            ],
+            "name": "North East",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1926
+            },
+            "code": "E12000002",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 21535,
+                "daily": 69
+            },
+            "femaleCases": [
+                {
+                    "age": "15_to_19",
+                    "rate": 9717.2,
+                    "value": 20670
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 14644.6,
+                    "value": 28883
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 9794.9,
+                    "value": 22938
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 12750.2,
+                    "value": 29046
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 9823.2,
+                    "value": 6662
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 10408.6,
+                    "value": 25262
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4805.1,
+                    "value": 6703
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 4469.5,
+                    "value": 9978
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 11092.0,
+                    "value": 23335
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 4700.8,
+                    "value": 9059
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 10577.0,
+                    "value": 25711
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 7274.3,
+                    "value": 15533
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2584.8,
+                    "value": 5402
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 8661.7,
+                    "value": 22663
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2402.4,
+                    "value": 6040
+                },
+                {
+                    "age": "90+",
+                    "rate": 15323.6,
+                    "value": 6572
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 11456.6,
+                    "value": 28211
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3932.1,
+                    "value": 7561
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 6467.2,
+                    "value": 6931
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "10_to_14",
+                    "rate": 4329.8,
+                    "value": 10126
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 8254.0,
+                    "value": 18895
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 5296.9,
+                    "value": 9804
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7798.8,
+                    "value": 19717
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 7266.8,
+                    "value": 16338
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2651.9,
+                    "value": 6426
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9057.5,
+                    "value": 23115
+                },
+                {
+                    "age": "90+",
+                    "rate": 13741.7,
+                    "value": 2746
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 9424.9,
+                    "value": 19420
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 10154.6,
+                    "value": 4401
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 5493.3,
+                    "value": 6644
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 9012.3,
+                    "value": 21127
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 4565.0,
+                    "value": 8225
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8882.7,
+                    "value": 21385
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 9960.2,
+                    "value": 23804
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 10909.1,
+                    "value": 22678
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2528.1,
+                    "value": 5578
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 7256.6,
+                    "value": 14964
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 7044.4,
+                    "value": 5861
+                }
+            ],
+            "name": "North West",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 995
+            },
+            "code": "E12000008",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 20263,
+                "daily": 90
+            },
+            "femaleCases": [
+                {
+                    "age": "75_to_79",
+                    "rate": 3076.9,
+                    "value": 5549
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 9465.3,
+                    "value": 24253
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3587.0,
+                    "value": 10133
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 9619.7,
+                    "value": 23889
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 2551.2,
+                    "value": 6451
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 5919.3,
+                    "value": 19771
+                },
+                {
+                    "age": "90+",
+                    "rate": 13288.8,
+                    "value": 8889
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8313.1,
+                    "value": 23200
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 6341.7,
+                    "value": 17291
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3175.2,
+                    "value": 7650
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 7668.1,
+                    "value": 22432
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7403.9,
+                    "value": 7055
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 4357.8,
+                    "value": 6106
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5030.9,
+                    "value": 13256
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2199.2,
+                    "value": 5570
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9199.4,
+                    "value": 24500
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 7473.4,
+                    "value": 22627
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1972.5,
+                    "value": 6127
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 7126.2,
+                    "value": 22658
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "75_to_79",
+                    "rate": 3539.8,
+                    "value": 5504
+                },
+                {
+                    "age": "90+",
+                    "rate": 11052.4,
+                    "value": 3597
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 2983.0,
+                    "value": 6842
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7221.4,
+                    "value": 19594
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 4939.8,
+                    "value": 12600
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2201.9,
+                    "value": 5888
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 5101.5,
+                    "value": 14717
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 7494.9,
+                    "value": 19701
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 5247.2,
+                    "value": 17162
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 7249.9,
+                    "value": 20069
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 6141.1,
+                    "value": 19098
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 6589.2,
+                    "value": 18636
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 6612.9,
+                    "value": 18770
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7248.1,
+                    "value": 4622
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3420.5,
+                    "value": 10193
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2155.2,
+                    "value": 6589
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 7316.3,
+                    "value": 20393
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 4549.6,
+                    "value": 5019
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3511.4,
+                    "value": 7841
+                }
+            ],
+            "name": "South East",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 622
+            },
+            "code": "E12000009",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 7893,
+                "daily": 32
+            },
+            "femaleCases": [
+                {
+                    "age": "30_to_34",
+                    "rate": 6010.8,
+                    "value": 9697
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 8255.5,
+                    "value": 12135
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 2696.5,
+                    "value": 2551
+                },
+                {
+                    "age": "90+",
+                    "rate": 8805.5,
+                    "value": 3971
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 5622.1,
+                    "value": 8637
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 4738.6,
+                    "value": 3088
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 3943.7,
+                    "value": 8037
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1011.3,
+                    "value": 2014
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 5360.6,
+                    "value": 8426
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 1932.2,
+                    "value": 3079
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 5221.5,
+                    "value": 8641
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 1840.0,
+                    "value": 2317
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 3187.9,
+                    "value": 5639
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 1684.2,
+                    "value": 2880
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 1457.7,
+                    "value": 2575
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 6479.3,
+                    "value": 10441
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 1453.5,
+                    "value": 2053
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 4965.0,
+                    "value": 9207
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 4691.5,
+                    "value": 7859
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "85_to_89",
+                    "rate": 4444.8,
+                    "value": 1939
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 4398.5,
+                    "value": 6757
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 4200.7,
+                    "value": 7486
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 1747.0,
+                    "value": 2852
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 4371.2,
+                    "value": 7220
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 2125.6,
+                    "value": 2368
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 2990.8,
+                    "value": 5030
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 4652.2,
+                    "value": 8012
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 1989.8,
+                    "value": 3146
+                },
+                {
+                    "age": "90+",
+                    "rate": 8069.8,
+                    "value": 1702
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 6658.6,
+                    "value": 10256
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 1859.0,
+                    "value": 3110
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 4994.9,
+                    "value": 8663
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 4261.4,
+                    "value": 6870
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 1415.0,
+                    "value": 2118
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 4060.2,
+                    "value": 6567
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 2758.5,
+                    "value": 2130
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 3482.9,
+                    "value": 6837
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 1113.8,
+                    "value": 2131
+                }
+            ],
+            "name": "South West",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1211
+            },
+            "code": "E12000005",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 15853,
+                "daily": 67
+            },
+            "femaleCases": [
+                {
+                    "age": "80_to_84",
+                    "rate": 5607.7,
+                    "value": 4897
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 10568.9,
+                    "value": 19916
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3970.2,
+                    "value": 6015
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9905.1,
+                    "value": 19873
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3406.8,
+                    "value": 5148
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 9425.9,
+                    "value": 18259
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 8857.2,
+                    "value": 16688
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 9050.7,
+                    "value": 17514
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 6336.6,
+                    "value": 10308
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 4142.0,
+                    "value": 7647
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7188.8,
+                    "value": 14783
+                },
+                {
+                    "age": "90+",
+                    "rate": 15074.1,
+                    "value": 5504
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2539.0,
+                    "value": 4855
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 11747.3,
+                    "value": 19437
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 8813.1,
+                    "value": 4948
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2439.8,
+                    "value": 4220
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 9756.7,
+                    "value": 16560
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 7616.9,
+                    "value": 13559
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4003.6,
+                    "value": 4609
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "10_to_14",
+                    "rate": 3910.7,
+                    "value": 7628
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 7990.8,
+                    "value": 16795
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2741.9,
+                    "value": 5157
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7859.2,
+                    "value": 15275
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 6168.6,
+                    "value": 11517
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2483.4,
+                    "value": 4512
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 8231.5,
+                    "value": 16539
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 7784.2,
+                    "value": 14287
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 7834.8,
+                    "value": 14926
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4559.4,
+                    "value": 4586
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 8735.0,
+                    "value": 14723
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 6083.7,
+                    "value": 4208
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 9165.7,
+                    "value": 3400
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 9016.7,
+                    "value": 15806
+                },
+                {
+                    "age": "90+",
+                    "rate": 13602.0,
+                    "value": 2282
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 4609.3,
+                    "value": 6639
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6593.5,
+                    "value": 13213
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3838.9,
+                    "value": 5374
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 6241.1,
+                    "value": 9884
+                }
+            ],
+            "name": "West Midlands",
+            "newAdmissions": null
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1401
+            },
+            "code": "E12000003",
+            "cumAdmissions": null,
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 12924,
+                "daily": 36
+            },
+            "femaleCases": [
+                {
+                    "age": "25_to_29",
+                    "rate": 9572.5,
+                    "value": 17361
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 2975.5,
+                    "value": 4338
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 9100.9,
+                    "value": 16755
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2067.4,
+                    "value": 3212
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 12402.6,
+                    "value": 18919
+                },
+                {
+                    "age": "85_to_89",
+                    "rate": 7739.8,
+                    "value": 4037
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 7956.8,
+                    "value": 13813
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 3626.3,
+                    "value": 5258
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 4981.5,
+                    "value": 4086
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5781.3,
+                    "value": 9223
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 8746.2,
+                    "value": 15666
+                },
+                {
+                    "age": "90+",
+                    "rate": 13130.7,
+                    "value": 4260
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 9438.1,
+                    "value": 14609
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 8707.4,
+                    "value": 15724
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 3684.5,
+                    "value": 3813
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2039.1,
+                    "value": 3744
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3769.2,
+                    "value": 6298
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 7025.0,
+                    "value": 13475
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 8487.6,
+                    "value": 13676
+                }
+            ],
+            "hospitalCases": null,
+            "maleCases": [
+                {
+                    "age": "85_to_89",
+                    "rate": 8033.1,
+                    "value": 2653
+                },
+                {
+                    "age": "25_to_29",
+                    "rate": 7474.5,
+                    "value": 14156
+                },
+                {
+                    "age": "10_to_14",
+                    "rate": 3501.0,
+                    "value": 6123
+                },
+                {
+                    "age": "50_to_54",
+                    "rate": 7413.8,
+                    "value": 13131
+                },
+                {
+                    "age": "65_to_69",
+                    "rate": 4136.1,
+                    "value": 5724
+                },
+                {
+                    "age": "55_to_59",
+                    "rate": 6279.2,
+                    "value": 11828
+                },
+                {
+                    "age": "5_to_9",
+                    "rate": 2072.1,
+                    "value": 3735
+                },
+                {
+                    "age": "35_to_39",
+                    "rate": 7211.5,
+                    "value": 12620
+                },
+                {
+                    "age": "80_to_84",
+                    "rate": 5628.4,
+                    "value": 3539
+                },
+                {
+                    "age": "0_to_4",
+                    "rate": 2004.7,
+                    "value": 3263
+                },
+                {
+                    "age": "60_to_64",
+                    "rate": 5731.8,
+                    "value": 8871
+                },
+                {
+                    "age": "45_to_49",
+                    "rate": 7726.7,
+                    "value": 11942
+                },
+                {
+                    "age": "20_to_24",
+                    "rate": 9213.8,
+                    "value": 14737
+                },
+                {
+                    "age": "70_to_74",
+                    "rate": 3469.3,
+                    "value": 4659
+                },
+                {
+                    "age": "40_to_44",
+                    "rate": 6818.9,
+                    "value": 11453
+                },
+                {
+                    "age": "30_to_34",
+                    "rate": 7069.0,
+                    "value": 13605
+                },
+                {
+                    "age": "75_to_79",
+                    "rate": 4255.1,
+                    "value": 3772
+                },
+                {
+                    "age": "90+",
+                    "rate": 12675.9,
+                    "value": 1856
+                },
+                {
+                    "age": "15_to_19",
+                    "rate": 6605.1,
+                    "value": 11102
+                }
+            ],
+            "name": "Yorkshire and The Humber",
+            "newAdmissions": null
+        }
+    ],
+    "length": 9,
+    "maxPageLimit": 2500,
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%2C%22maleCases%22%3A%22maleCases%22%2C%22femaleCases%22%3A%22femaleCases%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newAdmissions%22%3A%22newAdmissions%22%2C%22cumAdmissions%22%3A%22cumAdmissions%22%7D&format=json&page=1",
+        "first": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%2C%22maleCases%22%3A%22maleCases%22%2C%22femaleCases%22%3A%22femaleCases%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newAdmissions%22%3A%22newAdmissions%22%2C%22cumAdmissions%22%3A%22cumAdmissions%22%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%2C%22maleCases%22%3A%22maleCases%22%2C%22femaleCases%22%3A%22femaleCases%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newAdmissions%22%3A%22newAdmissions%22%2C%22cumAdmissions%22%3A%22cumAdmissions%22%7D&format=json&page=1",
+        "next": null,
+        "previous": null
+    }
+}
+https://api.coronavirus.data.gov.uk/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%2C%22maleCases%22%3A%22maleCases%22%2C%22femaleCases%22%3A%22femaleCases%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newAdmissions%22%3A%22newAdmissions%22%2C%22cumAdmissions%22%3A%22cumAdmissions%22%7D
+/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%2C%22maleCases%22%3A%22maleCases%22%2C%22femaleCases%22%3A%22femaleCases%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newAdmissions%22%3A%22newAdmissions%22%2C%22cumAdmissions%22%3A%22cumAdmissions%22%7D

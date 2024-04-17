@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1077
+            },
+            "code": "E12000004",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 11803,
+                "daily": 38
+            },
+            "name": "East Midlands"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 729
+            },
+            "code": "E12000006",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 15492,
+                "daily": 52
+            },
+            "name": "East of England"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 848
+            },
+            "code": "E12000007",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 18097,
+                "daily": 61
+            },
+            "name": "London"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 570
+            },
+            "code": "E12000001",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 7240,
+                "daily": 26
+            },
+            "name": "North East"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1926
+            },
+            "code": "E12000002",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 21521,
+                "daily": 64
+            },
+            "name": "North West"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 995
+            },
+            "code": "E12000008",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 20241,
+                "daily": 88
+            },
+            "name": "South East"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 622
+            },
+            "code": "E12000009",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 7893,
+                "daily": 31
+            },
+            "name": "South West"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1211
+            },
+            "code": "E12000005",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 15845,
+                "daily": 66
+            },
+            "name": "West Midlands"
+        },
+        {
+            "cases": {
+                "cumulative": null,
+                "daily": 1401
+            },
+            "code": "E12000003",
+            "date": "2021-02-22",
+            "deaths": {
+                "cumulative": 12921,
+                "daily": 36
+            },
+            "name": "Yorkshire and The Humber"
+        }
+    ],
+    "length": 9,
+    "maxPageLimit": 2500,
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "first": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dregion%3Bdate%3D2021-02-22&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22code%22%3A%22areaCode%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null
+    }
+}

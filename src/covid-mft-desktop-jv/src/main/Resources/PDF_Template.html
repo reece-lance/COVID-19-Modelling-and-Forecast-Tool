@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <title>{{title}}</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        p.Title-Paragraph {
+            color: #000000;
+            font-family: "Minion Pro", serif;
+            font-size: 30px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: bold;
+            line-height: 1.2;
+            margin-bottom: 0;
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 0;
+            orphans: 1;
+            page-break-after: auto;
+            page-break-before: auto;
+            text-align: center;
+            text-decoration: none;
+            text-indent: 0;
+            text-transform: none;
+            widows: 1;
+        }
+
+        p.Basic-Paragraph {
+            color: #000000;
+            font-family: "Minion Pro", serif;
+            font-size: 12px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: normal;
+            line-height: 1.2;
+            margin-bottom: 0;
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 0;
+            orphans: 1;
+            page-break-after: auto;
+            page-break-before: auto;
+            text-align: center;
+            text-decoration: none;
+            text-indent: 0;
+            text-transform: none;
+            widows: 1;
+        }
+
+        table.Basic-Table {
+            border-collapse: collapse;
+            border-color: #000000;
+            border-style: solid;
+            border-width: 1px;
+            margin-bottom: -4px;
+            margin-top: 4px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        td.Basic-Table {
+            border-left-width: 1px;
+            border-left-style: solid;
+            border-left-color: #000000;
+            border-top-width: 1px;
+            border-top-style: solid;
+            border-top-color: #000000;
+            border-right-width: 1px;
+            border-right-style: solid;
+            border-right-color: #000000;
+            border-bottom-width: 1px;
+            border-bottom-style: solid;
+            border-bottom-color: #000000;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            padding-left: 4px;
+            padding-right: 4px;
+            vertical-align: top;
+        }
+    </style>
+</head>
+<body>
+<div id="_idContainer000" class="Basic-Text-Frame">
+    <p class="Title-Paragraph">{{{title}}}</p>
+</div>
+
+<img src="{{{graphImage.path}}}" /><table id="table002" class="Basic-Table">
+    <colgroup>
+<col class="_idGenTableRowColumn-1"/>
+<col class="_idGenTableRowColumn-1"/>
+</colgroup>
+    <thead>
+    <tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+            <p class="Basic-Paragraph">{{table.property}}</p>
+        </td>
+<td class="Basic-Table">
+            <p class="Basic-Paragraph">{{table.value}}</p>
+        </td>
+    </tr>
+    </thead>
+    <tbody>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.mean}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.meanValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.sd}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.sdValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.var}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.varValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.total}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.totalValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.rss}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.rssValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.tss}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.tssValue}}</p>
+            </td>
+        </tr>
+<tr class="Basic-Table _idGenTableRowColumn-2">
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.rSquared}}</p>
+            </td>
+<td class="Basic-Table">
+                <p class="Basic-Paragraph">{{table.rSquaredValue}}</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

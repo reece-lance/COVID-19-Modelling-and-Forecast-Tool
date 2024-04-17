@@ -1,0 +1,12 @@
+{
+  "AreaType": "Overview",
+  "AreaName": "United Kingdom",
+  "AreaCode": "K02000001",
+  "Date": {
+    "year": 2020,
+    "month": 11,
+    "day": 4
+  },
+  "NewCasesBySpecimenDate": 1434,
+  "CumCasesBySpecimenDate": 1123197
+}
